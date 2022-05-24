@@ -26,4 +26,4 @@ The model used here is the Deep Convolutional Generative Adversarial Network oth
 
 ![loss_func](https://user-images.githubusercontent.com/65557678/169939034-5f668e6b-1f5f-4139-99ab-fec51e63af17.jpg)
 
-[![ Output from pokeGAN ](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=57Vkrnna4CU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/57Vkrnna4CU/7.jpg)](https://www.youtube.com/watch?v=57Vkrnna4CU)
