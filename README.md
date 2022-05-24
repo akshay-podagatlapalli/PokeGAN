@@ -26,4 +26,4 @@ The model used here is the Deep Convolutional Generative Adversarial Network oth
 
 ![loss_func](https://user-images.githubusercontent.com/65557678/169939034-5f668e6b-1f5f-4139-99ab-fec51e63af17.jpg)
 
-https://youtu.be/57Vkrnna4CU
+<iframe width="560" height="315" src="https://www.youtube.com/embed/57Vkrnna4CU?controls=0&amp;start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
