@@ -14,8 +14,8 @@ The data for this project was obtained from [here](https://www.kaggle.com/datase
 ## Code
 Pytorch is the primary module used in the development of this model. 
 
-The model used here is the Deep Convolutional Generative Adversarial Network otherwsie known as ([**DCGAN**](https://arxiv.org/pdf/1511.06434v2.pdf))
-(![DCGAN Architecture](https://user-images.githubusercontent.com/65557678/169937851-c685ff64-92ee-4ec5-bf3e-5a3a1c2e1483.png))
+The model used here is the Deep Convolutional Generative Adversarial Network otherwsie known as [**DCGAN**](https://arxiv.org/pdf/1511.06434v2.pdf)
+![DCGAN Architecture](https://user-images.githubusercontent.com/65557678/169937851-c685ff64-92ee-4ec5-bf3e-5a3a1c2e1483.png)
 
 - Refer to pokedatasetloader.py to see how the data was pre-processed, transformed using various data augmentation functions, and a neat function 
   I also included, that I painstakingly researched to calculate the mean and standard deviation of any image dataset. 
