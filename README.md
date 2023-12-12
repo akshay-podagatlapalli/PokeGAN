@@ -42,7 +42,6 @@ The discriminator is a CNN model, whereas the generator is a deconvolutional neu
 <p>The values that were selected for each of the iterations are presented in the <b>Table 1</b> below</p>  
 
 
-{:.mbtablestyle}
 <table style="margin-left:auto;margin-right:auto;">
 <colgroup>
 <col width="15%" />
@@ -97,16 +96,18 @@ The discriminator is a CNN model, whereas the generator is a deconvolutional neu
 </tr>
 </tbody>
 </table>
-{:class="table table-bordered"}
+
 
 <h2 class="section-heading">Results</h2>
 
 <p>The results for each of the runs, presented in <b>Table 1</b> are presented below</p>
 
 
+![fig5](https://github.com/akshay-podagatlapalli/PokeGAN/assets/65557678/9ca84f0c-1f65-4561-87e0-d85cd4dd6a5e)
 
+![fig7](https://github.com/akshay-podagatlapalli/PokeGAN/assets/65557678/64c91dcb-6bce-42ad-9176-10be10df25f7)
 
-
+![fig10](https://github.com/akshay-podagatlapalli/PokeGAN/assets/65557678/638e94b6-c56d-41ac-b185-dde72b0be038)
 
 
 <p>The Pokémon generated using this model have distinct shapes and colours, but they lack features such as faces, limbs, or appendages such as tails, wings, horns, fins, and so on that are commonly seen on Pokémon. The losses for both models appear to raise concerns about mode collapse and/or failure of convergence based on the loss plot. When the generator's loss begins to oscillate repeatedly with the same <b><a href="https://machinelearningmastery.com/wp-content/uploads/2019/07/Line-Plots-of-Loss-and-Accuracy-for-a-Generative-Adversarial-Network-with-Mode-Collapse.png">oscillation loss pattern</a></b>, mode collapse might have occurred. It also results in very little diversity among the samples generated. However, the outcomes are far from identical. While it is evident that the loss functions for the generator and discriminator do not converge, it would also lead to the results simply producing plain noise as in Figure 7 below.</p>
